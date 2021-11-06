@@ -1,1 +1,1 @@
-# deliveryfood
+# DeliveryFood - сервис доставки еды. Выполнение в соответствии с интенсивом GloAcademy.
